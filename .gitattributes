@@ -1,4 +1,0 @@
-*.react-native linguist-detectable=true
-*.kotlin linguist-detectable=false
-*.kotlin linguist-vendored=false
-*.react-native linguist-vendored=true
